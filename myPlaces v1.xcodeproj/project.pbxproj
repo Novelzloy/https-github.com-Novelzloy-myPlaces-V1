@@ -15,6 +15,7 @@
 		3014DDC225A45FB0009DDDC3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3014DDC025A45FB0009DDDC3 /* LaunchScreen.storyboard */; };
 		3014DDCD25A45FB0009DDDC3 /* myPlaces_v1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3014DDCC25A45FB0009DDDC3 /* myPlaces_v1Tests.swift */; };
 		3014DDD825A45FB1009DDDC3 /* myPlaces_v1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3014DDD725A45FB1009DDDC3 /* myPlaces_v1UITests.swift */; };
+		3014DDE925A469A1009DDDC3 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3014DDE825A469A1009DDDC3 /* MainViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3014DDD325A45FB1009DDDC3 /* myPlaces v1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "myPlaces v1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3014DDD725A45FB1009DDDC3 /* myPlaces_v1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myPlaces_v1UITests.swift; sourceTree = "<group>"; };
 		3014DDD925A45FB1009DDDC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3014DDE825A469A1009DDDC3 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				3014DDB725A45FAF009DDDC3 /* SceneDelegate.swift */,
 				3014DDB925A45FAF009DDDC3 /* ViewController.swift */,
 				3014DDBB25A45FAF009DDDC3 /* Main.storyboard */,
+				3014DDE825A469A1009DDDC3 /* MainViewController.swift */,
 				3014DDBE25A45FB0009DDDC3 /* Assets.xcassets */,
 				3014DDC025A45FB0009DDDC3 /* LaunchScreen.storyboard */,
 				3014DDC325A45FB0009DDDC3 /* Info.plist */,
@@ -261,6 +264,7 @@
 				3014DDBA25A45FAF009DDDC3 /* ViewController.swift in Sources */,
 				3014DDB625A45FAF009DDDC3 /* AppDelegate.swift in Sources */,
 				3014DDB825A45FAF009DDDC3 /* SceneDelegate.swift in Sources */,
+				3014DDE925A469A1009DDDC3 /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
